@@ -1,9 +1,3 @@
-//
-//  WShandler.swift
-//  ShivTechnolabsDemo
-//
-//  Created by Pradip Patel on 11/09/21.
-//
 
 import UIKit
 import Alamofire
